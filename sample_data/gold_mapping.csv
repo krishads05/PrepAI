@@ -1,0 +1,35 @@
+paper_id,qno,part,gold_subtopic
+OS_2020,1,a,Banker's Algorithm
+OS_2020,1,b,Deadlock characterization
+OS_2020,2,a,CPU Scheduling
+OS_2020,2,b,Process states and PCB
+OS_2020,3,,Paging
+OS_2020,4,,Critical section problem
+OS_2020,5,,File allocation methods
+OS_2021,1,a,Banker's Algorithm
+OS_2021,1,b,Deadlock prevention
+OS_2021,2,,Page replacement algorithms
+OS_2021,3,,Classical problems
+OS_2021,4,,CPU Scheduling
+OS_2021,5,,Disk scheduling
+OS_2022,1,,Deadlock detection and recovery
+OS_2022,2,,CPU Scheduling
+OS_2022,3,a,Thrashing
+OS_2022,3,b,Segmentation
+OS_2022,4,,Classical problems
+OS_2022,5,,Directory structure
+OS_2022,6,,Context switching
+OS_2023,1,a,Banker's Algorithm
+OS_2023,1,b,Deadlock detection and recovery
+OS_2023,2,,Page replacement algorithms
+OS_2023,3,,Critical section problem
+OS_2023,4,,CPU Scheduling
+OS_2023,5,,Disk scheduling
+OS_2023,6,,Processes and threads
+OS_2024,1,a,Banker's Algorithm
+OS_2024,1,b,Banker's Algorithm
+OS_2024,2,,Deadlock detection and recovery
+OS_2024,3,,CPU Scheduling
+OS_2024,4,,Paging
+OS_2024,5,,Classical problems
+OS_2024,6,,File allocation methods

@@ -1,0 +1,11 @@
+Operating Systems - Course Syllabus
+Module 1: Process Management
+Processes and threads, Process states and PCB, CPU Scheduling (FCFS, SJF, Priority, Round Robin), Context switching
+Module 2: Process Synchronization
+Critical section problem, Semaphores, Classical problems (Producer-Consumer, Dining Philosophers, Readers-Writers)
+Module 3: Deadlocks
+Deadlock characterization, Deadlock prevention, Banker's Algorithm, Deadlock detection and recovery
+Module 4: Memory Management
+Paging, Segmentation, Page replacement algorithms (FIFO, LRU, Optimal), Thrashing
+Module 5: File Systems
+File allocation methods, Directory structure, Disk scheduling (FCFS, SSTF, SCAN, C-SCAN)

@@ -1,0 +1,15 @@
+﻿# personal data and course files
+subjects/
+library/
+workspace/
+# generated outputs and caches
+outputs/
+outputs_app/
+out_*/
+.prepai_cache/
+__pycache__/
+*.pyc
+# secrets and environment
+.env
+venv/
+.venv/

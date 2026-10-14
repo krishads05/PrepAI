@@ -1,0 +1,29 @@
+paper_id,qno,part,gold_subtopic,question
+Machine_Learning__CSE-3171__2024,1,A,Issues in Machine Learning|Learning a Class from Examples,Evaluate the advantages and limitations of three different forms of machine learning. Prov
+Machine_Learning__CSE-3171__2024,1,B,Final Design|Function Approximation Algorithm|Issues in Machine Learning|Learning a Class from Examples|Target Function and its Representation|Training Experience,Analyze the role of well-posed machine learning problems in the development of intelligent
+Machine_Learning__CSE-3171__2024,1,C,Boosting-AdaBoost|Random Forests,Compare and contrast the ensemble learning techniques of Bagging and Boosting. Explain the
+Machine_Learning__CSE-3171__2024,2,A,Condensed Nearest Neighbor|K- Nearest Neighbor Algorithm,Given the training data listed in Table 4. Apply K nearest neighbour classifier to predict
+Machine_Learning__CSE-3171__2024,2,B,Bayesian Networks and Naive Bayes Classifier,Given the training data listed in Table 5. Predict the class of the following new example 
+Machine_Learning__CSE-3171__2024,2,C,Bayesian Networks and Naive Bayes Classifier,For the following Figure 1 Bayesian Belief network QQ Fig. 1 We know that X and Z are not 
+Machine_Learning__CSE-3171__2024,3,A,Kernel Methods|Support Vector Classifier|Support Vector Machines,"Let {xi, ..., Xn} be our data set and let y; € {1,-1} be the class label of x; So, r esha "
+Machine_Learning__CSE-3171__2024,3,C,Kernel Methods|Support Vector Classifier|Support Vector Machines,Provide examples of real-world applications where specific kernels in SVMs have been parti
+Machine_Learning__CSE-3171__2024,4,A,UNMAPPED,"Suppose the visitors to a website need to be grouped using their age as follows: {15,15,16"
+Machine_Learning__CSE-3171__2024,4,B,UNMAPPED,Consider applying Expectation Maximization algorithm for training a Gaussian Mixture Model
+Machine_Learning__CSE-3171__2024,4,C,Model Selection and Generalization|UNMAPPED,"While evaluating the performance of a classifier, why accuracy may not be a good indicator"
+Machine_Learning__CSE-3171__2024,5,,Classification and Regression Trees|Pruning|Rule Extraction from Trees|Univariate Trees,Build decision tree for the following training data listed in Table 13 using ID3 algorithm
+Machine_Learning__CSE-3171__2024,5,B,Classification and Regression Trees|Concepts of Over-fitting and Generalization|Model Selection and Generalization|Overfitting and Black Swan Paradox|Pruning|Rule Extraction from Trees|Univariate Trees,"Using depth of a decision tree, explain why do underfitting and overfitting occur in decis"
+Machine_Learning__CSE-3171__2024,5,C,Classification and Regression Trees|Pruning|Rule Extraction from Trees|Univariate Trees,Why decision tree is considered as a nonlinear classifier? Explain with an example data. I
+Machine_Learning__CSE_3171__Makeup__2024,1,A,Learning a Class from Examples,Compare and contrast the supervised with unsupervised learning.
+Machine_Learning__CSE_3171__Makeup__2024,1,B,Final Design|Function Approximation Algorithm|Issues in Machine Learning|Learning a Class from Examples|Target Function and its Representation|Training Experience,Discuss the importance of formulating well-posed machine learning problems in the developm
+Machine_Learning__CSE_3171__Makeup__2024,1,C,Concepts of Over-fitting and Generalization|Model Selection and Generalization|Overfitting and Black Swan Paradox|Pruning,Discuss the significance of Occam's Razor Principle and Overfitting Avoidance in the conte
+Machine_Learning__CSE_3171__Makeup__2024,2,A,Condensed Nearest Neighbor|K- Nearest Neighbor Algorithm,Summarize the Pros and Cons of K-Nearest Neighbors (KNN).
+Machine_Learning__CSE_3171__Makeup__2024,2,B,Bayesian Networks and Naive Bayes Classifier,Suppose you are given the following set of data listed in Table 2B with three Boolean inpu
+Machine_Learning__CSE_3171__Makeup__2024,2,C,Bayesian Networks and Naive Bayes Classifier,Consider the following Figure 2C Bayesian network. Assume that: P(Alarm1) = 0.1 P(Alarm2) 
+Machine_Learning__CSE_3171__Makeup__2024,3,A,Kernel Methods|Support Vector Classifier|Support Vector Machines,Summarize the main advantages and limitations of SVM.
+Machine_Learning__CSE_3171__Makeup__2024,3,C,Kernel Methods|Support Vector Classifier|Support Vector Machines,"Consider a dataset shown in Table 3C below with two features, X1 and X2, and two classes, "
+Machine_Learning__CSE_3171__Makeup__2024,4,A,UNMAPPED,"Use single link agglomerative hierarchical clustering to group the data described as {18, "
+Machine_Learning__CSE_3171__Makeup__2024,4,B,UNMAPPED,Describe two cases where K-Means clustering fails to give good results. Show pictorially a
+Machine_Learning__CSE_3171__Makeup__2024,4,C,Model Selection and Generalization|UNMAPPED,"Generate Confusion matrix for an image recognition problem having actual values = {1,1, 0,"
+Machine_Learning__CSE_3171__Makeup__2024,5,A,Classification and Regression Trees|Pruning|Rule Extraction from Trees|Univariate Trees,"With an example data, work out a case where the entropy calculation would be zero. Relatin"
+Machine_Learning__CSE_3171__Makeup__2024,5,B,Classification and Regression Trees|Condensed Nearest Neighbor|K- Nearest Neighbor Algorithm|Pruning|Rule Extraction from Trees|Univariate Trees,Why decision tree is considered as a nonparametric model? In comparison to K- NN as a nonp
+Machine_Learning__CSE_3171__Makeup__2024,5,C,Classification and Regression Trees|Concepts of Over-fitting and Generalization|Model Selection and Generalization|Overfitting and Black Swan Paradox|Pruning|Rule Extraction from Trees|Univariate Trees,Why do overfitting occur in decision trees? Give a technique to solve overfitting and illu

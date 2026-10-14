@@ -1,0 +1,9 @@
+End-Semester Exam 2020
+Answer all questions
+1. (a) Explain Banker's Algorithm with an example. [8]
+(b) What are the necessary conditions for deadlock? [4]
+2. (a) Calculate average waiting time for 4 processes using FCFS and SJF with burst times 6, 8, 7, 3. [10]
+(b) Explain the process state diagram with PCB. [5]
+3. Explain paging with a neat diagram. [6]
+4. What is a semaphore? Explain its use in solving the critical section problem. [8]
+5. Describe different file allocation methods. [6]

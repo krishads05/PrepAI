@@ -1,0 +1,9 @@
+End-Semester Exam 2023
+Answer all questions
+1. (a) Find a safe sequence using Banker's Algorithm for the given allocation and max matrices with 5 processes. [10]
+(b) Explain methods for recovery from deadlock. [5]
+2. Calculate the number of page faults for reference string 1,2,3,4,1,2,5 with 3 frames using Optimal and LRU page replacement. [10]
+3. Explain the critical section problem and requirements of a solution. [6]
+4. Calculate average waiting time using SJF and Priority scheduling for 5 processes. [10]
+5. Calculate total head movement using SCAN and C-SCAN for a request queue starting at cylinder 53. [8]
+6. Explain the difference between processes and threads. [5]

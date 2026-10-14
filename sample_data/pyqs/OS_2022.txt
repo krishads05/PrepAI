@@ -1,0 +1,9 @@
+End-Semester Exam 2022
+Answer all questions
+1. Explain the resource allocation graph and deadlock detection algorithm. [8]
+2. Compute average turnaround time using Round Robin with time quantum 4 ms for processes with burst times 10, 5, 8. [10]
+3. (a) What is thrashing? How can it be prevented? [6]
+(b) Explain segmentation with an example. [5]
+4. Explain the Producer-Consumer problem using semaphores. [8]
+5. Describe tree-structured and acyclic graph directory structures. [5]
+6. What is context switching? [3]

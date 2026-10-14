@@ -1,0 +1,8 @@
+End-Semester Exam 2021
+Answer all questions
+1. (a) Consider a system with 5 processes and 3 resource types. Determine whether the system is in a safe state using Banker's algorithm. [10]
+(b) Differentiate between deadlock prevention and deadlock avoidance. [5]
+2. Find the number of page faults for reference string 7,0,1,2,0,3,0,4 with 3 frames using FIFO and LRU. [10]
+3. Explain the Dining Philosophers problem and its solution using semaphores. [8]
+4. Compare Round Robin and Priority scheduling. [5]
+5. Explain disk scheduling algorithms SSTF and SCAN. [6]

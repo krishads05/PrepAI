@@ -1,0 +1,13 @@
+pandas
+numpy
+scikit-learn
+scipy
+pdfplumber
+pymupdf
+sentence-transformers
+python-pptx
+python-docx
+anthropic
+streamlit
+rapidocr_onnxruntime
+rapid_latex_ocr
